@@ -4,7 +4,9 @@
 * Análisis del sistema de aprendizaje [wiki](https://github.com/mgea/futurelearning/wiki/Define-future-learning)
 * Ejemplo de aprendizaje según generación de internet [Wiki](https://github.com/mgea/futurelearning/wiki/Aprender-sobre-PH)
 * Recursos [wiki](https://github.com/mgea/futurelearning/wiki/Recursos-de-Aprendizaje-Digital)
-* Conclusiones 
+* Conclusiones [wiki](https://github.com/mgea/futurelearning/wiki/Conclusiones)
+
+
   
 
 
